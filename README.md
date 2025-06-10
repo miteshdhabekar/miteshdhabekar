@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @miteshdhabekar<br>- 👀 I’m interested in Tech<br>- 🌱 I’m currently learning MCA<br>- 📫 How to reach me on Linkedin/@lyathleon<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love programming
+-👋 Hi, I’m @miteshdhabekar<br>- 👀 I’m interested in Tech<br>- 🌱 I’m currently learning MCA<br>- 📫 How to reach me on Linkedin/@miteshdhabekar<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love programming
 
 
 ## 🌐 Socials:
